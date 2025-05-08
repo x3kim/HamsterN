@@ -9,7 +9,7 @@ __pycache__/
 # Virtuelle Umgebungen
 .env
 .venv
-[Ee]nv/  # Deckt env/ und ENV/ ab
+[Ee]nv/
 venv/
 env.bak/
 venv.bak/
