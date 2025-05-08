@@ -1,14 +1,18 @@
-# HamsterN! - Der helfende Prokrastinat0r
-
-![HamsterN Screenshot](assets/HamsterN_main.png) ![HamsterN Screenshot](assets/HamsterN_running.png) ![HamsterN Screenshot](assets/HamsterN_dead.png)
+# HamsterN!* - Der helfende Prokrastinat0r
 
 Willkommen bei HamsterN! – einer kleinen App, das dich auf spielerische Weise bei deiner Arbeit am Computer begleitet. Dein Charakter (aktuell "Indi" der Explorer) reagiert auf deine Aktivität und sammelt mehr punkte, je mehr du tippst und klickst! (Bisher leider nur, wenn das Fenster im Fokus liegt.)
-
+## 🖼️ Screenshots
+![HamsterN Screenshot](assets/HamsterN_main.png) ![HamsterN Screenshot](assets/HamsterN_running.png) ![HamsterN Screenshot](assets/HamsterN_dead.png)
 
 ## ✨ Wieso? Die Idee dahinter
 
 Ich wollte in mehreren Bereichen ein wenig mein Wissen erweitern, also kam die Idee eines kleinen Spiels/Apps auf. Ich wollte die Schritte vom Start bis zum "Release" auf GitHub lernen/verstehen.
-Dies soll mein "erstes Projekt" sein um mir diese Schritte beizubringen. Hat auch ziemlich gut geklappt. Ich werde auf dem ganzen Aufbauen und schauen wo mich das ganze hinführen wird. Viel Spaß beim stöbern durch das Projekt.
+Dies soll mein "erstes Projekt" sein um mir diese Schritte beizubringen. Da Python relativ einfach und gut für den Start sein sollte, entschied ich mich dafür. Hat auch ziemlich gut geklappt (nach ein paar Problemen bei der installation von Python unter Windows) Ich werde auf dem ganzen Aufbauen und schauen wo mich das ganze hinführen wird. Viel Spaß beim stöbern durch das Projekt.
+
+* **Q:** Wieso eigentlich "HamsterN"? Ich sehe keinen Hamster..
+* **A:** Es sollte am Anfang ein Hamster werden, der in einem Laufrad läuft und die Idee des prokrastinierens verbindet. Also entstand "HamsterNation" (HAMSTER + prokrastiNATION). Ich fand es lustig. 🤷
+
+---
 
 ## ✨ Features
 
