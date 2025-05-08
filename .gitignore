@@ -1,13 +1,20 @@
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / Cache-Dateien
 __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+# C-Erweiterungen / Kompilierte Module
 *.so
-*.pyd
 
-# Distribution / packaging
+# Virtuelle Umgebungen
+.env
+.venv
+[Ee]nv/  # Deckt env/ und ENV/ ab
+venv/
+env.bak/
+venv.bak/
+
+# Distribution / Packaging / Build-Artefakte
 .Python
 build/
 develop-eggs/
@@ -27,33 +34,12 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds a program, so direct committing them is not advisable.
-#  VERSION-INFO.txt will be part  of the executable, it is only needed by PyInstaller
-#  *.manifest will be part of the executable, it is only needed by PyInstaller
 *.spec
-# VERSION-INFO.txt # Entferne das Kommentarzeichen, falls du eine solche Datei manuell verwaltest
-# *.manifest       # Entferne das Kommentarzeichen, falls du eine solche Datei manuell verwaltest
 
-# Virtual Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# VS Code
+# IDE / Editor spezifisch
 .vscode/
-
-# Backup files
-_old/
-
-# Lokale Highscore-Datei (wenn sie direkt im Projektordner generiert wird und nicht versioniert werden soll)
-highscore.txt # Nur hinzufügen, wenn deine Highscore-Datei im Hauptverzeichnis liegt und nicht versioniert werden soll.
-                 # Wenn sie im APPDATA-Ordner etc. liegt, ist das hier nicht nötig.
-
 Hamsternation.code-workspace
+
+# Projekt-spezifische oder temporäre Dateien
+_old/
+highscore.txt
